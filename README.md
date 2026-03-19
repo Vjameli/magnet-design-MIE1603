@@ -8,8 +8,8 @@ The AMNS matrix is tracked using Git LFS. After cloning the project from GitHub,
 All the useful stuff is in the `magnet_design` directory. 
 
 Order to find stuff: 
-- `optimization/model.py` 
-- `optimization/constraints.py` 
+- `magnet_design/optimization/model.py` 
+- `magnet_design/optimization/constraints.py` 
     - For each constraint class, the main content is in the `generate()` function 
 
 
